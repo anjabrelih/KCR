@@ -7,5 +7,5 @@ Git repository for course Humain computer interaction (Komunikacija človek rač
 
 - /Seminarska I (Swing GUI in NetBeans)
 - /Seminarska II (Elimination of eye artifacts using the Independent Component  Analysis (ICA) procedure in Matlab)
-- /Seminarska III (TBD)
+- /Seminarska III (Implementation of a brain computer interface to classify between two motor activities in Matlab)
 
